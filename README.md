@@ -2,7 +2,8 @@
 
 
 **Download Mono/CSC to compile and execute C Sharp Files on MacOS:**
-https://www.mono-project.com/download/stable/
+- For Windows users there should be a compiler available already in you CMD Prompt.
+- https://www.mono-project.com/download/stable/
 
 
 Once installed close and reopen your terminal for access to `mono` and `csc`.
