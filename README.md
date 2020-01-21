@@ -1,6 +1,10 @@
-## Convert Zip File to Bytes & Hash
+# Convert Zip File to Bytes & Hash
 
 
+
+## Development 
+
+### MacOS
 **Download Mono/CSC to compile and execute C Sharp Files on MacOS:**
 - For Windows users there should be a compiler available already in you CMD Prompt.
 - https://www.mono-project.com/download/stable/
@@ -19,9 +23,6 @@ mono ZipToText.exe
 
 **The hash.txt that is created is the hash of the zipfile, later written to the `Verifications.sol` smart contract**
 
-
-
-#### Development 
 
 Whatever zip file you want to create a hash for, add it into the `/temp` directory and name it `allData.zip`.
 
