@@ -21,6 +21,8 @@ mono ZipToText.exe
    - Creates a `temp/hash.txt` file
    - Creates a `temp/bytes.txt` file
 
+`/temp`: *make sure the temp dir is in the root of the project. It should be there if you cloned the repo. It should only have the* `.gitkeep` initially.
+
 **The hash.txt that is created is the hash of the zipfile, later written to the `Verifications.sol` smart contract**
 
 
